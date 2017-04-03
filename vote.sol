@@ -145,3 +145,5 @@ contract Ballot {
       selfdestruct(msg.sender);
     }
 }
+
+// forked and adapted from https://solidity.readthedocs.io/en/latest/solidity-by-example.html
