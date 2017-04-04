@@ -2,8 +2,11 @@
 
 // import "github.com/oraclize/ethereum-api/oraclizeAPI.sol"; // Oraclize contract definition
 // import "github.com/Arachnid/solidity-stringutils/strings.sol"; // string utils library
+pragma solidity 0.4.8;
+
 
 import "./usingOraclize.sol";
+import "./strings.sol";
 
 
 contract NHLPredictor is usingOraclize{

@@ -1,5 +1,9 @@
 /// @ Title Sport Betting using Oraclize contract/API NLH API KEY at86gvk5v3pujkmfm3q8b658
 
+pragma solidity 0.4.8;
+
+
+
 import "github.com/oraclize/ethereum-api/oraclizeAPI.sol"; // Oraclize contract definition
 import "github.com/Arachnid/solidity-stringutils/strings.sol"; // string utils library
 
