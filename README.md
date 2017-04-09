@@ -78,8 +78,8 @@ In Windows
 Mist.exe --rpc http://boot7c4rd.westus.cloudapp.azure.com:8545
 
 in Mac?
-
-Mist --rcp http://boot7c4rd.westus.cloudapp.azure.com:8545
+In a terminal : 
+/Applications/Mist.app/Contents/MacOS/Mist --rpc http://boot7c4rd.westus.cloudapp.azure.com:8545
 
 
 
