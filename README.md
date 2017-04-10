@@ -1,3 +1,9 @@
+Blockchain Chat --- https://tlk.io/blockchain-bootcamp
+
+Get ETH:  http://boot7c4rd.westus.cloudapp.azure.com
+
+
+
 Contract Examples for Montreal's Blockchain Bootcamp
 
 
